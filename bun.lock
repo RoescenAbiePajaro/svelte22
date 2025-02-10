@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "devDependencies": {
+        "create-svelte": "^7.0.0",
+      },
+    },
+  },
+  "packages": {
+    "create-svelte": ["create-svelte@7.0.0", "", { "bin": "bin.js" }, "sha512-+IGTDiF0Jlyu1//zf9pNBntTutE+a0VyYDi+bR2l8ApJLZWqYitv5MbhtzEe4XCjx3crooW65wsIP1KSQSZpug=="],
+  }
+}
